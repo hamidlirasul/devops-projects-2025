@@ -1,6 +1,7 @@
 **🩺 System Health Report Script**
 
 **Project URL**: https://roadmap.sh/projects/server-stats
+
 A lightweight Bash script to quickly gather key system statistics on a Linux host. Useful for sysadmins, DevOps engineers, or security audits.
 
 **🔍 What It Checks**
