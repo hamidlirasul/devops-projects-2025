@@ -18,17 +18,29 @@ A lightweight Bash script to quickly gather key system statistics on a Linux hos
 
 **🚀 Usage**
 
-chmod +x scripts/health_check.sh
+**1. Clone the repository**
+```
+git clone https://github.com/hamidlirasul/devops-projects-2025/tree/main
 
-./scripts/health_check.sh
-
+cd server_performance_stats
+```
+**2. Make the script executable**
+```
+chmod +x server-stats.sh
+```
+**3. Execute the script**
+```
+./server-stats.sh
+```
 **📦 Sample Output**
 
 OS version & name:
 
 NAME="Ubuntu"
-
+    
 VERSION="22.04.4 LTS (Jammy Jellyfish)"
 
 Total CPU usage: 12.34%
 ...
+
+
