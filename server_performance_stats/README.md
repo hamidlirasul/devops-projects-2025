@@ -1,4 +1,4 @@
-**🩺 System Health Report Script**
+**🩺 System Statistics Report Script**
 
 **Project URL**: https://roadmap.sh/projects/server-stats
 
